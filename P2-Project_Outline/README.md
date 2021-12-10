@@ -7,12 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+We are building a Music themed descussion board website called BeatsPM, with a seperate sub form for different genres. users will log in so that they can save posts and info about upcoming shows as well as be able to private message other BeatsPM members.
 ### Features
+-Login and Registration pages
+-Private Messaging 
+-Making /Deleting a post
+-Music recomendation
+
 Include Features here
 ### Technologies
-Include Technologies here
+- Angular 
+- SQL
+- NodeJS 
+- Typescript
 ### What I'll Have to Learn
-Include what you will need to learn here
+- I will need to get a better handle on Angular. 
+- How to build / intigrate chat functionality
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/YlJcFwlR/liftoff-project-board-dec-2021
